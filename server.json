@@ -15,7 +15,7 @@
     {
       "title": "EmporiaVue: a NodeServer for Emporia Gen 2 Vue",
       "author": "Blake Von Haden (blakevh)",
-      "version": "0.0.1"",
+      "version": "0.0.1",
       "date": "March 28, 2021",
       "source": "https://github.com/blakevh/emporia-gen2-vue-nodeserver",
       "license": "https://github.com/blakevh/emporia-gen2-vue-nodeserver/blob/598b034fae194197f1943c58b81bc5314bb3d1bb/LICENSE"
